@@ -14,4 +14,4 @@ const ROUTES: Routes =[
     imports:[SharedModule,RouterModule.forChild(ROUTES)]
 })
 
-export class OrderModule{}
+export class OrderModule{ }
